@@ -43,9 +43,13 @@ The Medical Diagnosis Center (MDC) is a ServiceNow application designed to strea
 - Introduce appointment and report notifications.
 - Expand security, usability, and performance testing.
 
-## Project Status
+Documentation
 
-The application is under development and testing. Features and workflows should be considered complete only after verification in the ServiceNow instance.
+The complete project documentation for the Medical Diagnosis Center (MDC) is available at the link below.
+
+https://drive.google.com/drive/folders/1QkgCISdaCXPz8vDJtR6kN4sEYli3gmqo?usp=sharing
+
+The documentation includes the project report, system design, data flow diagrams, user stories, testing documentation, and implementation details.
 
 ## Disclaimer
 
